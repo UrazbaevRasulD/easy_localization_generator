@@ -19,7 +19,7 @@ dependencies:
   http: ^1.1.0
   path: ^1.8.3
   csv: ^5.0.2
-  intl: ^0.18.0
+  intl: ^0.19.0
   analyzer: ^5.11.1
 
 dev_dependencies:
